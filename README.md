@@ -8,3 +8,4 @@ Built With
 Vanilla JavaScript
 CSS & HTML
 OpenWeather API
+![image](https://github.com/pawanchoudhary1/WeatherForecastingapp/assets/107381982/e28b2ac6-ec9c-44e2-b108-c337ca155652)
